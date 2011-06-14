@@ -8,4 +8,7 @@ Built in Helsinki, Finland by
     Leif Eriksson (leif.fi)
 
 Mostly based on the excellent http://html5zombo.com/
+by Bertrand Fan.
 
+Note:
+    index.xhtml should be served with a mime-type of application/xhtml+xml
